@@ -1,0 +1,15 @@
+..\obj\lv_hal_tick.o: ..\Middleware\LVGL\GUI\lvgl\src\hal\lv_hal_tick.c
+..\obj\lv_hal_tick.o: ..\Middleware\LVGL\GUI\lvgl\src\hal\lv_hal_tick.h
+..\obj\lv_hal_tick.o: ..\Middleware\LVGL\GUI\lvgl\src\hal\../lv_conf_internal.h
+..\obj\lv_hal_tick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\lv_hal_tick.o: ..\Middleware\LVGL\GUI\lvgl\src\hal\../lv_conf_kconfig.h
+..\obj\lv_hal_tick.o: ..\Middleware\LVGL\GUI\lvgl\examples\porting\../../lv_conf.h
+..\obj\lv_hal_tick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\lv_hal_tick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lv_hal_tick.o: ..\FreeRtos_Include\FreeRTOS.h
+..\obj\lv_hal_tick.o: ..\USER\FreeRTOSConfig.h
+..\obj\lv_hal_tick.o: ..\FreeRtos_Include\projdefs.h
+..\obj\lv_hal_tick.o: ..\FreeRtos_Include\portable.h
+..\obj\lv_hal_tick.o: ..\FreeRtos_Include\deprecated_definitions.h
+..\obj\lv_hal_tick.o: ..\FreeRtos_Portable\portmacro.h
+..\obj\lv_hal_tick.o: ..\FreeRtos_Include\mpu_wrappers.h
